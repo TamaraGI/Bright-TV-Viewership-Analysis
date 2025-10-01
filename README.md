@@ -20,8 +20,6 @@ Growth Strategy: Propose scalable initiatives to further grow BrightTV’s user 
 🎯 Tools
 DataBricks - Data Manipulation (SQL)
 Efficiently query, extract, and structure raw data. Used for initial joining of user profiles and transaction data.
-
 Google Looker Studio - Visualization & Reporting
 Creation of interactive dashboards to monitor key metrics
-
 Excel- Pivot Tables and graphs
